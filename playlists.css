@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    margin-top: 40px;
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #212529;
+    margin-bottom: 50px;
+}
+
+.ye{
+    height: 200px;
+    border-radius: 200%;
+    width: 200px;
+}
+
+.taylor{
+    border-radius: 200%;
+    height: 205px;
+    width: 205px;
+}
+
+.yeat{
+    border-radius: 200%;
+    height: 200px;
+    width: 200px;
+}
+
+.playlists{
+    width: 500px;
+}
+
