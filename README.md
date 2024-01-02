@@ -1,5 +1,3 @@
-# KAIP
-
-Meu primeiro projeto utilizando da biblioteca Bootstrap
+primeiro projeto usando bootstrap
 
 https://arturcorrea1.github.io/KAIP/
